@@ -1,1 +1,2 @@
-drzawlinmg/stable:fclone.korera မှ deploy ပါ CONFIG_FILE_URL ဖြည့်ပါ
+drzawlinmg/stable:fclone.korera မှ deploy ပါ 
+BOT_TOKEN နှင့် OWNER_ID ဖြည့်ပါ
