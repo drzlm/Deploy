@@ -1,1 +1,2 @@
-drzawlinmg/stable:msgsuite.korera မှ deploy ပါ CONFIG_FILE_URL ထည့်ပါ
+drzawlinmg/stable:msgsuite.korera မှ deploy ပါ BOT_TOKEN နှင့် OWNER_ID ဖြည့်ပါ
+port 80
