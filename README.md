@@ -5,7 +5,7 @@ Env Vars ၃ ခုဖြည့်ရပါမယ် စာလုံးမှာ
 - MAIN                   -(Plaintext)-         https://www.~~~~~~~/MAIN.zip ထည့်ရန်
   
 
-# MAIN variable ဘယ်လိုလုပ်ရမလဲ
+# MAIN variable ဘယ်လိုလုပ်ရမလဲ.
 
 Service accounts သုံးမယ်ဆိုလျှင် (0-99.json) ဖိုင်များပါသော ၁။ accounts ဖိုလ်ဒါ  
 ၂။ token.pickle ဖိုင်
