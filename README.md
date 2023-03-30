@@ -1,4 +1,4 @@
-Env Vars ၃ ခုဖြည့်ရပါမယ် စာလုံးမှားလို့မရပါ။
+Env Vars ၃ ခုဖြည့်ရပါမယ် စာလုံးမှားလို့မရပါ
 - Name                  -(Type)-              Value
 - BOT_TOKEN             -(Plaintext)-         https://t.me/BotFather မှ token ထည့်ပါ
 - USE_SERVICE_ACCOUNTS  -(Plaintext)-         True သို့မဟုတ် False ထည့်ရန်။ SA ပါလျှင် True
