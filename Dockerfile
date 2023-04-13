@@ -1,1 +1,1 @@
-FROM drzawlinmg/stable:gdrivex.korera
+FROM npt13/samdeploy
